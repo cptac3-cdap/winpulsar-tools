@@ -1,0 +1,3 @@
+set PULSARVER=0.7.3
+rem set PYTHONVER=7.6-3
+set PYTHONVER=2.7.13
